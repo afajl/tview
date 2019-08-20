@@ -6,6 +6,7 @@
 This Go package provides commonly needed components for terminal based user interfaces.
 
 ![Screenshot](tview.gif)
+![Artboard.png]({{site.baseurl}}/Artboard.png)
 
 Among these components are:
 
